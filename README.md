@@ -1,4 +1,6 @@
 # portfolio
+
+(The website is designed based on my screen 1920x1080. please view it using a computer. i just realized that format for phones is not right because i was doing absolute position for words.)
 This website is linked with multiple websites. I decided to do this way rather than navigate within one page, becasue I think it is easier to 
 organize for future use since i can just simply copy a new link and change the subjects or remove the whole section by removing the link.
 
